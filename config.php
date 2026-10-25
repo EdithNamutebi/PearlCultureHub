@@ -1,6 +1,7 @@
+
 <?php
 // Use port 3308 to match phpMyAdmin
-$host = "localhost:3308";
+$host = "localhost";
 $user = "root";
 $password = "";
 $database = "pearlculturehub";
